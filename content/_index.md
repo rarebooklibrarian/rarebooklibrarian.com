@@ -1,6 +1,6 @@
 ---
-title: 'Hugo Whisper Docs'
-date: 2018-11-28T15:14:39+10:00
+title: 'Collections'
+date: 2022-05-27
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+This site shares collections data from libraries at liberal arts colleges that contain manuscript archives and books from before 1600.
