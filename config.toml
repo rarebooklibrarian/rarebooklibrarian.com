@@ -33,7 +33,7 @@ summaryLength = 30
   homepage_button_link = '/docs'
   homepage_button_text = 'Read The Docs'
   homepage_intro = 'This site provides access to the collections data from numerous special collections at American liberal arts colleges.'
-  homepage_image = '/images/terminal.gif'
+  homepage_image = '/images/lvivcardcatalog.jpg'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
