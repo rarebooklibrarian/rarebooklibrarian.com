@@ -14,7 +14,7 @@ pygmentsUseClasses = true
     extended = true
     min = "0.55.0"
 
-# Controls how many words are printed in the content summary on the docs homepage.
+# Controls how many words are printed in the content summary.
 # See https://gohugo.io/content-management/summaries/
 summaryLength = 30
 
@@ -24,14 +24,14 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "Collections"
+    url = "/collections/"
     weight = 2
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
+  homepage_button_link = '/collections'
+  homepage_button_text = 'Visit the Collections'
   homepage_intro = 'This site provides access to the collections data from numerous special collections at American liberal arts colleges.'
   homepage_image = '/images/lvivcardcatalog.jpg'
 

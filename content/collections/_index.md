@@ -1,9 +1,7 @@
 ---
-title: 'Overview'
-date: 2018-11-28T15:14:39+10:00
+title: 'Collections'
+date: 2022-05-28
 weight: 1
 ---
-
-## Collections
 
 The data from library collections have been gathered for analysis.
