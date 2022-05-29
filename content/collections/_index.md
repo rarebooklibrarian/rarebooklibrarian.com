@@ -4,4 +4,4 @@ date: 2022-05-28
 weight: 1
 ---
 
-The data from library collections have been gathered for analysis.
+Examples of small college libraries with significant special collections.
