@@ -16,7 +16,7 @@ pygmentsUseClasses = true
 
 # Controls how many words are printed in the content summary.
 # See https://gohugo.io/content-management/summaries/
-summaryLength = 30
+# summaryLength = 30
 
 [[menu.main]]
     name = "Home"
