@@ -45,9 +45,6 @@ pygmentsUseClasses = true
     meta_og_url = "https://www.rarebooklibrarian.com/"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
     meta_og_description = "Data about special collections in liberal arts colleges."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@mark_e_peterson"
-    meta_twitter_creator = "@mark_e_peterson"
 
   [params.logo]
       mobile = "/images/logo-mobile.svg"
